@@ -5,3 +5,6 @@
 [submodule "evanverse"]
 	path = evanverse
 	url = https://github.com/evanbio/evanverse
+[submodule "ukbflow"]
+	path = ukbflow
+	url = https://github.com/evanbio/ukbflow
