@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "biopalette"]
+	path = biopalette
+	url = https://github.com/evanbio/biopalette
 [submodule "ukbflow"]
 	path = ukbflow
 	url = https://github.com/evanbio/ukbflow
